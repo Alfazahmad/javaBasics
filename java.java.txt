@@ -1,0 +1,3 @@
+public class alfaz{
+public static void main(){
+}}
